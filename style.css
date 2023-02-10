@@ -1,0 +1,117 @@
+body {
+	background-color: #1F2937;
+	font-family: "Roboto";
+	font-size: 18px;
+	color: gray;
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+}
+
+button{
+	background-color: #3882F6;
+	color: #f9faf8;
+	border: none;
+	border-radius: 16px;
+}
+
+.header {
+	font-size: 18px;
+	color: gray;
+}
+
+.header_logo {
+	font-size: 24px;
+	color: #f9faf8;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.header_links {
+	justify-content: space-around;
+	display: flex;
+}
+
+.content {
+	background-color: white;
+}
+
+.content_header {
+	font-size: 20px;
+	font-weight: 600;
+	color: #1F2937;
+}
+
+.quote {
+	background-color: gray;
+	font-size: 36px;
+	font-style: italic;
+	font-weight: 100;
+	color: #1F2937;
+
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+}
+
+ul {
+	display: flex;
+	list-style: none;
+	font-style: none;
+	gap: 12px;
+}
+
+.welcome_tab {
+	display: flex;
+	justify-content: center;
+}
+
+.head {
+	font-size: 48px;
+	font-weight: bolder;
+	color: #f9faf8;
+}
+
+.signature {
+	margin-top: 0;
+	padding-top: 0;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+.sign_up {
+	margin: 0;
+	padding: 0;
+	justify-items: normal;
+	align-items: norma;
+}
+
+.action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #f9faf8;
+}
+
+.call_to_action {
+	color: #f9faf8	;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.arrange_us {
+
+}
+
+.call_to_action_small {
+	color: #f9faf8;
+	font-weight: 100;
+	font-size: 16px;
+}
+
+.hold_my_call {
+	display: flex;
+	background-color: #3882F6;
+}
