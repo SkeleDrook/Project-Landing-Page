@@ -94,7 +94,6 @@ ul {
 .second {
 	flex: 1 0 25%;
 	background-color: white;
-	display: ;
 	text-align: center;
 }
 
@@ -107,14 +106,13 @@ ul {
 
 .second-container {
 	display: flex;
-	justify-content: space-between;
 	margin-left: 200px;
 	margin-right: 200px;
 	gap: 30px;
 }
 
 .second-image {
-	width: 100%;
+	width: 21.5%;
 	height: auto;
 	border: 3px solid #3882F6;
 	border-radius: 10px;
